@@ -1,0 +1,1 @@
+module.exports = 'Saludo desde saludo.js';

@@ -1,0 +1,38 @@
+[
+    {
+        "_id":1,
+        "user":"paolasantillan",
+        "password":"secret",
+        "email":"chxnge@hotmail.com",
+        "name":"Paola Santillán"
+    },
+    {
+        "_id":2,
+        "user":"jcasablancas",
+        "password":"secret",
+        "email":"chxnge@hotmail.com",
+        "name":"Julian Casablancas"
+    },
+    {
+        "_id":3,
+        "user":"Psantillan2",
+        "password":"secret",
+        "email":"chxnge@hotmail.com",
+        "name":"Paola Santillán",
+        "permissions":[
+                    {
+                        "permission":"edit users"
+                    },
+                    {
+                        "permission":"view users"
+                    }
+                ]
+    },
+    {
+        "_id":4,
+        "user":"testindec",
+        "password":"secret",
+        "email":"test@indec.gob.ar",
+        "name":"User test"
+    }
+]
